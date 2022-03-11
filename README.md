@@ -1,3 +1,2 @@
-# INF142-Computer-Network
-Name: Qingle Xu  
-Goup: 62
+# team-local-tactics
+A game for the mandatory assignment
