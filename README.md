@@ -1,2 +1,2 @@
-# team-local-tactics
-A game for the mandatory assignment
+Assignment1-Group 62
+Qingle Xu  
